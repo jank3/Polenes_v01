@@ -1,0 +1,1 @@
+java -jar RpaPolenesScraper.jar --outfile all.xlsx --history all 01/01/2006 01/01/2019 --headless 
